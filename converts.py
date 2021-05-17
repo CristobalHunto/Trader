@@ -1,6 +1,9 @@
 import sys
 """
-converts one minute timeframe to 5 min, 15 min, 1 hour, 1 day  
+Converts one minute timeframe to 5 min, 15 min, 1 hour, 1 day
+python converts.py fileSource fileResult timeFrame
+fileSource - one minutes time frame
+timeFrame - M5 M15 H1 D1
 """
 
 
